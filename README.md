@@ -7,25 +7,7 @@ I’m a passionate engineer specializing in QA automation, web development, and 
 👀 Interests
 	•	Web performance & automation
 	•	Component libraries & design systems
-	•	Hybrid & endurance training (HYROX 💪)
 	•	Smooth UX & great documentation
-
-🌱 Currently Learning
-	•	Advanced Playwright workflows
-	•	Vue & Twig design system architecture
-	•	DevOps/Docker refinement
-
-💞️ Looking to Collaborate On
-	•	Modern testing frameworks & tooling
-	•	UI/UX component libraries
-	•	Open-source QA or developer experience projects
-
-📫 Reach Me
-	•	💼 LinkedIn: https://www.linkedin.com/in/slavensusic
-
-⚡ Fun Fact
-
-I use big red arrows ↗️ in team chats to make sure nobody misses the important stuff 😄
 
 ⸻
 
